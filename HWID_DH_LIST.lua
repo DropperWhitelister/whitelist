@@ -1,2 +1,4 @@
-local HWID_List = {}
+local HWID_List = {
+  "D2E82A49-226D-4760-BD7F-D79D7E94BEED"
+}
 return HWID_List
